@@ -20,8 +20,6 @@ WPusers is a Python tool designed to enumerate WordPress usernames from a given 
 1. Clone the repository:
     ```bash
     git clone https://github.com/aymanaljunaid/WPusers.git
-    
-    ```bash
     cd WPusers
     ```
 
@@ -40,8 +38,6 @@ Run the script without a proxy:
 ## Run the script:
     ```bash
     python3 WPusers.py https://example.com
-    ```
-    ```bash
     python3 WPusers.py https://example.com http://your-proxy:port
     ```
 
