@@ -36,10 +36,9 @@ Run the script without a proxy:
     ```
     
 ## Run the script:
-    ```bash
+    
     python3 WPusers.py https://example.com
     python3 WPusers.py https://example.com http://your-proxy:port
-    ```
 
 ## Disclaimer
 
