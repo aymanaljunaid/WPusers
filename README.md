@@ -20,7 +20,7 @@ WPusers is a Python tool designed to enumerate WordPress usernames from a given 
 1. Clone the repository:
     ```bash
     git clone https://github.com/aymanaljunaid/WPusers.git
-    ```
+    
     ```bash
     cd WPusers
     ```
